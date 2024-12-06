@@ -459,20 +459,14 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "AI EarthHack Finalist",
-  description: [
-    "Certificate: https://docs.google.com/document/d/1PqnWxnh1RKS2BQ6UDC3h4XKnt_LqtKPnBS0IuyopL-8/edit?usp=sharing",
-    "Finalist and best pitch award (top 3 out of over 150 teams) for Streamlit application for AI business evaluation.",
-  ],
+  title: "Projects",
+  description: "",
   // avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
-  title: "Machine Learning paper",
-  description: [
-    "https://jhss.scholasticahq.com/article/25164",
-    "Published paper on the Scholastica Journal of High School Science, titled on An Empirical Analysis of Machine Learning Based Emotion Recognition",
-  ],
+  title: "Publications",
+  description: "",
 };
 
 const publications = {
@@ -493,6 +487,19 @@ const publications = {
       description:
         "2024 IEEE 20th International Conference on Body Sensor Networks (BSN)",
       // url: "https://blog.paperspace.com/mdp-diffusion/",
+    },
+  ],
+};
+
+const projects = {
+  data: [
+    {
+      // id: "neuro-symbolic-sudoku-solver",
+      name: "AI EarthHack Finalist",
+      // createdAt: "2023-07-02T00:00:00Z",
+      description: "January 2024",
+      url:
+        "Certificate: https://docs.google.com/document/d/1PqnWxnh1RKS2BQ6UDC3h4XKnt_LqtKPnBS0IuyopL-8/edit?usp=sharing",
     },
   ],
 };
@@ -540,6 +547,7 @@ export {
   certifications,
   experience,
   projectsHeader,
+  projects,
   publicationsHeader,
   publications,
   contactPageData,
