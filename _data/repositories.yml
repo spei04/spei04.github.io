@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - spei04
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AttentivU/NLM_EMG
+  - jerryfrancis-97/llmination-reasoning
+  - spei04/prompt_engineering
+  - elainejiangg/ControlNet
+  - yangj216/pokerbots
+  - techandy42/GreenTechGuardians
+  - AttentivU/blinkgazedetection
