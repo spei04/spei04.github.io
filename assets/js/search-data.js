@@ -23,6 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-art",
+          title: "art",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/art/";
+          },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -50,7 +64,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-llm-reasoning-vs-recall-agentx-hackathon",
+            },},{id: "news-palette-will-be-participating-in-the-y-combinator-summer-2026-batch-june-september-2026-looking-forward-to-an-intense-and-rewarding-summer-in-sf",
+          title: 'Palette will be participating in the Y Combinator Summer 2026 batch (June –...',
+          description: "",
+          section: "News",},{id: "news-admitted-to-the-stanford-mscs-program-will-be-attending-part-time-starting-september-2026",
+          title: 'Admitted to the Stanford MSCS program — will be attending part-time starting September...',
+          description: "",
+          section: "News",},{id: "news-excited-to-be-joining-tiktok-usds-data-search-as-a-software-engineer-on-the-infrastructure-team-starting-september-2026",
+          title: 'Excited to be joining TikTok USDS Data Search as a Software Engineer on...',
+          description: "",
+          section: "News",},{id: "projects-llm-reasoning-vs-recall-agentx-hackathon",
           title: 'LLM Reasoning vs. Recall — AgentX Hackathon',
           description: "Microsoft AgentX · Studying how LLMs respond to math problem perturbations",
           section: "Projects",handler: () => {
