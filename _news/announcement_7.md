@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Admitted to the **Stanford MSCS** program — will be attending part-time starting September 2026.
+Starting **Stanford MSCS** part-time this fall.

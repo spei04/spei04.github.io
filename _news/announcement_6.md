@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to be joining **TikTok USDS Data Search** as a Software Engineer on the infrastructure team, starting September 2026!
+Joining **TikTok USDS Data Search** as a SWE on the infrastructure team this September.

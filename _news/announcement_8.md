@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-**Palette** will be participating in the **Y Combinator Summer 2026 batch** (June – September 2026). Looking forward to an intense and rewarding summer in SF!
+**Palette** is doing **YC S26** this summer (June – September) in SF.
