@@ -110,38 +110,9 @@ cv:
           - "Web scraped and embedded data from courseroad, EdX, and MIT job descriptions onto seascapes.ai AI navigator."
           - "Mapped 3,000+ classes/majors, 900+ EdX courses, and 400+ MIT job descriptions to feature vector representations."
 
-    Skills:
-      - name: Machine Learning & AI
-        level: Expert
-        icon: fa-solid fa-brain
-        keywords: "PyTorch, Scikit-learn, HuggingFace, Diffusion Models, LLMs, EEG/EMG Signal Processing, Computer Vision, NLP"
-
-      - name: Programming Languages
-        level: Expert
-        icon: fa-solid fa-code
-        keywords: "Python, TypeScript, R, SQL"
-
-      - name: Cloud & Infrastructure
-        level: Proficient
-        icon: fa-solid fa-cloud
-        keywords: "AWS CDK, Lambda, Step Functions, Docker, RDS Postgres, S3, EC2, Next.js, Flask, React"
-
     Languages:
       - name: English
         summary: "Native speaker"
 
       - name: Mandarin Chinese
         summary: "Fluent"
-
-    Interests:
-      - name: Machine Learning Research
-        icon: fa-solid fa-robot
-        keywords: "Distribution Shift, Generative Models, Diffusion Models, LLM Reasoning, Brain-Computer Interfaces"
-
-      - name: Entrepreneurship
-        icon: fa-solid fa-rocket
-        keywords: "AI Products, YC S26, Workforce Tech"
-
-      - name: Arts & Athletics
-        icon: fa-solid fa-palette
-        keywords: "Dance (MissBehavior, Asian Dance Team), Volleyball, Visual Arts"

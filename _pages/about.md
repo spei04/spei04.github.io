@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   <a href="https://web.mit.edu/">MIT</a> Computer Science &middot;
-  <a href="https://www.ycombinator.com/companies/palette">YC Founder (S26)</a> &middot;
+  YC Founder (S26) &middot;
   ML Researcher
 
 profile:
@@ -33,6 +33,6 @@ I thrive at the intersection of rigorous machine learning research and high-stak
 
 My research background spans **[MIT CSAIL](https://www.csail.mit.edu/)** (Vision Lab, advised by Prof. Sara Beery), the **[MIT Media Lab](https://www.media.mit.edu/)**, and **LIDS** (Laboratory for Information & Decision Systems). I have focused on distribution shifts and diffusion-based data augmentation, multi-modal biosignal processing (EEG, EMG, EOG), and the reasoning capabilities of large language models.
 
-At **[Palette](https://www.ycombinator.com/companies/palette)** (YC S26), I am synthesizing these interests to build the next generation of intelligent tools for the modern workforce — architecting the core ML inference pipeline and full-stack product infrastructure from zero to production.
+At **Palette** (YC S26), I am synthesizing these interests to build the next generation of intelligent tools for the modern workforce — architecting the core ML inference pipeline and full-stack product infrastructure from zero to production.
 
 Previously, I interned at **Amazon (PXT)** building an LLM-powered RAG feedback pipeline and AWS CDK infrastructure, and conducted research at **A\*STAR Singapore** on deep learning for histomorphology in cancer tissue images.

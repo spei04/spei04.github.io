@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
-nav: false
+title: resume
+nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/serena_pei_cv.pdf # you can also use external links here
-cv_format: jsonresume # options: rendercv, jsonresume
+cv_format: rendercv # options: rendercv, jsonresume
 description: MIT CS · YC Founder (S26) · ML Researcher
 toc:
   sidebar: left
