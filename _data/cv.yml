@@ -75,7 +75,6 @@ cv:
         summary: Research on biosignal processing, HCI, and adaptive AI systems.
         highlights:
           - "First author — Frontiers in Human Neuroscience: speech motor patterns in minimally verbal ASD adults via surface EMG; 5,000+ lines of Python."
-          - "First author — MIT Undergraduate Research Journal (Fall 2025): EMG analysis with Massachusetts General Hospital Research Institute."
           - "Co-author — ACM IMWUT 2025: heartbeat-synchronized haptic feedback for interoception; 3,000+ lines of Python."
           - "Co-author — IEEE BSN 2024: privacy-preserving EOG-EEG eye movement classification."
           - "Co-author — NeuroChat (CHI 2025 submitted): adaptive AI learning using real-time EEG with GPT."
