@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h3>{{ site.blog_name }}</h3>
+    <h4>{{ site.blog_description }}</h4>
   </div>
   {% endif %}
 
@@ -150,17 +150,6 @@ pagination:
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | relative_url }}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-
-          {% if tags != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
-              <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
-              {% unless forloop.last %}
-                &nbsp;
-              {% endunless %}
-              {% endfor %}
-          {% endif %}
 
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;

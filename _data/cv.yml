@@ -21,6 +21,16 @@ cv:
 
   sections:
     Education:
+      - institution: Stanford University
+        location: Stanford, CA
+        url: https://www.stanford.edu/
+        area: Computer Science (AI Specialization)
+        studyType: M.S.
+        start_date: 2026
+        end_date: present
+        highlights:
+          - "Part-time, beginning September 2026"
+
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA
         url: https://web.mit.edu/
