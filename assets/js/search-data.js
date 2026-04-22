@@ -100,6 +100,11 @@ ninja.data = [{
           description: "Deep Learning final project · EDM diffusion pipeline for CIFAR-100 augmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diffusion_curriculum/";
+            },},{id: "projects-exploring-hardware-acceleration-on-rag-workloads",
+          title: 'Exploring Hardware Acceleration on RAG Workloads',
+          description: "Computer Systems Architecture final project · Hardware efficiency of RAG inference across LPDDR4/5X/6 memory technologies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hardware_rag/";
             },},{id: "projects-id-bench-safety-benchmarking-for-financial-ai-agents",
           title: 'ID-Bench — Safety Benchmarking for Financial AI Agents',
           description: "Apart &amp; AgentBeats Hackathon · Measuring AI agent compliance and deception under trading scenarios",
