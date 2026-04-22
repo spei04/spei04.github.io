@@ -4,6 +4,7 @@ title: ID-Bench — Safety Benchmarking for Financial AI Agents
 description: Apart & AgentBeats Hackathon · Measuring AI agent compliance and deception under trading scenarios
 importance: 2
 category: hackathon
+github: spei04/id_bench
 ---
 
 **Apart Hackathon & AgentBeats Hackathon** — Dec 2025 – Present

@@ -4,6 +4,7 @@ title: Diffusion-Generated Data with Curriculum Learning
 description: Deep Learning final project · EDM diffusion pipeline for CIFAR-100 augmentation
 importance: 3
 category: coursework
+github: spei04/dl_project
 ---
 
 **Deep Learning Final Project** — Nov–Dec 2025
