@@ -5,11 +5,19 @@ cv:
   location: Cambridge, MA · San Francisco, CA
   image: ""
   summary: >
-    I thrive at the intersection of rigorous machine learning research and high-stakes system engineering.
-    As an MIT Computer Science student and YC Founder (S26), my work is driven by the belief that the most
-    profound breakthroughs in AI are only as impactful as the systems that deliver them. My research
-    background, spanning MIT CSAIL, the Media Lab, and LIDS, has focused on distribution shifts,
-    multi-agent strategy, and the nuances of generative modeling.
+    I work at the intersection of rigorous machine learning research and high-stakes system engineering.
+    I studied computer science at MIT and am a founder in the Y Combinator S26 batch, where I focus on
+    translating deep technical ideas into real world systems.
+
+    My research spans MIT CSAIL, the Media Lab, and LIDS, focusing on distribution shifts in computer
+    vision, human computer interaction, multimodal data analysis, and multiagent strategy with LLMs.
+    Through engineering work at Amazon and early-stage startups, I've explored human in the loop design
+    for LLM-based systems and how to orchestrate agents to produce efficient, rigorous, and interpretable
+    outcomes.
+
+    I'm particularly interested in building intelligent systems to solve complex problems, combining
+    advances in machine learning with a nuanced understanding of human behavior and strategic decision
+    making.
 
   social_networks:
     - network: X
@@ -39,22 +47,26 @@ cv:
         start_date: 2022
         end_date: 2026
         highlights:
-          - "Lab Assistant for 6.3900 Introduction to Machine Learning (2023–Present)"
-          - "First Year Associate Advisor"
-          - "Relevant labs: CSAIL Vision Lab, MIT Media Lab, LIDS"
+          - "GPA: 4.9/5.0"
+          - "Gordon-MIT Engineering Leadership Program (GEL) student"
+          - "Eta Kappa Nu (HKN) honors — top 25% of EECS class"
+          - "Chinese minor"
+          - "Fung Scholar (Victor and William Fung Foundation — promotes leadership through scholarships and research partnerships with universities worldwide)"
+
+      - institution: Harvard University
+        location: Cambridge, MA
+        url: https://www.harvard.edu/
+        area: AI, Ethics, and Society (Harvard Divinity School, cross-registered)
+        studyType: Cross-Registration
+        start_date: 2026-02
+        end_date: 2026-05
 
     Experience:
-      - company: Palette
-        position: Co-Founder & CTO
+      - company: "Palette ($500K pre-seed funding led by Y Combinator S26)"
+        position: Founder, CTO
         location: San Francisco, CA
-        url: https://www.ycombinator.com/companies/palette
-        start_date: 2025
+        start_date: 2026-02
         end_date: present
-        summary: Building the next generation of intelligent tools for the modern workforce.
-        highlights:
-          - "Accepted into Y Combinator Summer 2026 (S26) batch."
-          - "Architecting the core ML inference pipeline and full-stack product infrastructure from zero to production."
-          - "Technologies: Python, TypeScript, PyTorch, Next.js, AWS"
 
       - company: MIT CSAIL — Vision Lab
         position: Research Assistant
@@ -119,9 +131,38 @@ cv:
           - "Web scraped and embedded data from courseroad, EdX, and MIT job descriptions onto seascapes.ai AI navigator."
           - "Mapped 3,000+ classes/majors, 900+ EdX courses, and 400+ MIT job descriptions to feature vector representations."
 
+      - company: MIT Introduction to Machine Learning (6.3900)
+        position: Learning Assistant
+        location: Cambridge, MA
+        start_date: 2024-09-01
+        end_date: 2025-12-01
+        highlights:
+          - "Staffed office hours for homework, lab checkoffs, and exam review (7+ hrs/wk)."
+          - "Contributed to staff meetings to improve assignments, overall class structure, and discuss content."
+
+    Volunteer:
+      - company: First Year Associate Advisor
+        position: MIT
+        location: Cambridge, MA
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Register first year students for classes."
+          - "Organize semesterly meetings with advisees to offer guidance."
+
     Languages:
       - name: English
         summary: "Native speaker"
 
       - name: Mandarin Chinese
         summary: "Fluent"
+
+    Extracurriculars:
+      - bullet: "E14 Fund"
+      - bullet: "MIT Informatics Tournament Club (Treasurer)"
+      - bullet: "Society of Women Engineers"
+      - bullet: "Women in EECS"
+      - bullet: "MissBehavior Dance Team (Treasurer)"
+      - bullet: "Asian Dance Team"
+      - bullet: "MIT Arts Studio"
+      - bullet: "Women's Volleyball Club"
