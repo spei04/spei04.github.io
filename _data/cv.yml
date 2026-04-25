@@ -31,7 +31,6 @@ cv:
     Education:
       - institution: Stanford University
         location: Stanford, CA
-        url: https://www.stanford.edu/
         area: Computer Science (AI Specialization)
         studyType: M.S.
         start_date: 2026
@@ -41,7 +40,6 @@ cv:
 
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA
-        url: https://web.mit.edu/
         area: Computer Science
         studyType: B.S.
         start_date: 2022
@@ -55,7 +53,6 @@ cv:
 
       - institution: Harvard University
         location: Cambridge, MA
-        url: https://www.harvard.edu/
         area: AI, Ethics, and Society (Harvard Divinity School, cross-registered)
         studyType: Cross-Registration
         start_date: 2026-02
@@ -121,15 +118,6 @@ cv:
           - "Unsupervised feature extraction and tissue clustering for histomorphology in H&E stained liver cancer tissue images; 5,000+ lines of Python."
           - "Optimized code for large whole slide image (WSI) processing; overlaid cluster masks on tissue images for accuracy analysis."
 
-      - company: MIT CSAIL
-        position: Undergraduate Researcher
-        location: Cambridge, MA
-        url: https://seascapes.ai
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - "Web scraped and embedded data from courseroad, EdX, and MIT job descriptions onto seascapes.ai AI navigator."
-          - "Mapped 3,000+ classes/majors, 900+ EdX courses, and 400+ MIT job descriptions to feature vector representations."
 
       - company: MIT Introduction to Machine Learning (6.3900)
         position: Learning Assistant
@@ -166,3 +154,5 @@ cv:
       - bullet: "Asian Dance Team"
       - bullet: "MIT Arts Studio"
       - bullet: "Women's Volleyball Club"
+      - bullet: "Intramural Badminton"
+      - bullet: "Intramural Volleyball"
