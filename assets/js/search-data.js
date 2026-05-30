@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/art/";
           },
-        },{id: "nav-news",
-          title: "news",
-          description: "",
+        },{id: "nav-timeline",
+          title: "timeline",
+          description: "Major milestones from my time at MIT onward.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/timeline/";
           },
         },{id: "nav-resume",
           title: "resume",
@@ -150,7 +150,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%70%65%69@%6D%69%74.%65%64%75", "_blank");
+          window.open("mailto:%73%65%72%65%6E%61%70%65%69%31%32%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-rss',
