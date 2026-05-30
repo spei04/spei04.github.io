@@ -1,0 +1,107 @@
+/* Vertical timeline of major life events (homepage). */
+
+.timeline {
+  position: relative;
+  margin: 1rem 0 2rem;
+
+  /* The central vertical line */
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 8rem;
+    width: 2px;
+    background-color: var(--global-divider-color);
+  }
+}
+
+.timeline-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  column-gap: 2rem;
+  padding-bottom: 2rem;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.timeline-location {
+  text-align: right;
+  padding-right: 1.5rem;
+  padding-top: 0.1rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--global-text-color-light);
+}
+
+.timeline-marker {
+  position: absolute;
+  left: 8rem;
+  top: 0.35rem;
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  background-color: var(--global-theme-color);
+  border: 2px solid var(--global-bg-color);
+  transform: translateX(-50%);
+}
+
+.timeline-content {
+  padding-left: 1rem;
+
+  .timeline-date {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--global-theme-color);
+  }
+
+  .timeline-title {
+    margin: 0.15rem 0 0.35rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+  }
+
+  .timeline-description {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+}
+
+/* Stack on small screens: location moves above the content, line shifts left. */
+@media (max-width: 576px) {
+  .timeline {
+    &::before {
+      left: 0.4rem;
+    }
+  }
+
+  .timeline-item {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+    padding-left: 1.75rem;
+  }
+
+  .timeline-location {
+    text-align: left;
+    padding-right: 0;
+    padding-left: 0;
+    order: -1;
+    font-size: 0.8rem;
+  }
+
+  .timeline-marker {
+    left: 0.4rem;
+  }
+
+  .timeline-content {
+    padding-left: 0;
+  }
+}

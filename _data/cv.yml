@@ -1,15 +1,15 @@
 cv:
   name: Serena Pei
   label: MIT CS · YC Founder (S26) · ML Researcher
-  email: spei@mit.edu
+  email: serenapei123@gmail.com
   location: Cambridge, MA · San Francisco, CA
   image: ""
   summary: >
     I work at the intersection of rigorous machine learning research and high-stakes system engineering.
-    I studied computer science at MIT and am a founder in the Y Combinator S26 batch, where I focus on
+    I studied computer science and engineering at MIT and am a founder in the Y Combinator S26 batch, where I focus on
     translating deep technical ideas into real world systems.
 
-    My research spans MIT CSAIL, the Media Lab, and LIDS, focusing on distribution shifts in computer
+    My research spans CSAIL, the Media Lab, and LIDS, focusing on distribution shifts in computer
     vision, human computer interaction, multimodal data analysis, and multiagent strategy with LLMs.
     Through engineering work at Amazon and early-stage startups, I've explored human in the loop design
     for LLM-based systems and how to orchestrate agents to produce efficient, rigorous, and interpretable
@@ -40,7 +40,7 @@ cv:
 
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA
-        area: Computer Science
+        area: Computer Science and Engineering
         studyType: B.S.
         start_date: 2022
         end_date: 2026
@@ -65,7 +65,7 @@ cv:
         start_date: 2026-02
         end_date: present
 
-      - company: MIT CSAIL — Vision Lab
+      - company: CSAIL (Vision Lab)
         position: Research Assistant
         location: Cambridge, MA
         start_date: 2025-09-01
@@ -76,7 +76,7 @@ cv:
           - "Trained classification models on augmented datasets; designed MLLM-as-a-judge evaluation for synthetic image filtering."
           - "Presented at MIT SuperUROP showcase institute-wide."
 
-      - company: MIT Media Lab
+      - company: MIT Media Lab (Fluid Interfaces group)
         position: Research Assistant
         location: Cambridge, MA
         start_date: 2022
@@ -91,15 +91,15 @@ cv:
       - company: Amazon (People eXperience Technology)
         position: SDE Intern — Workforce Solutions Transformative Tech
         location: Seattle, WA
-        start_date: 2024-06-01
-        end_date: 2024-08-31
+        start_date: 2025-06-01
+        end_date: 2025-08-31
         summary: "Project: OpsMate Data Acquisition Autonomy — LLM-powered feedback mechanism for RAG-based chatbot."
         highlights:
           - "Built and integrated a full-stack web application (Katal + React + Flask) for feedback records and knowledge base modification."
           - "Architected end-to-end AWS infrastructure using CDK: Lambda, Step Functions, Docker, RDS Postgres, EC2, S3, CloudFront."
           - "Trained BERTopic model for topic identification by collecting and assembling training data."
 
-      - company: FutureTech Lab
+      - company: CSAIL (FutureTech Lab)
         position: Research Assistant
         location: Cambridge, MA
         start_date: 2024
@@ -112,8 +112,8 @@ cv:
       - company: A*STAR (Agency for Science, Technology, and Research)
         position: Research Intern
         location: Singapore
-        start_date: 2023
-        end_date: 2023
+        start_date: 2024
+        end_date: 2024
         highlights:
           - "Unsupervised feature extraction and tissue clustering for histomorphology in H&E stained liver cancer tissue images; 5,000+ lines of Python."
           - "Optimized code for large whole slide image (WSI) processing; overlaid cluster masks on tissue images for accuracy analysis."

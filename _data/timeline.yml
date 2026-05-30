@@ -1,0 +1,68 @@
+# Timeline of major life events, shown at the bottom of the homepage.
+# Each entry: location (left side), date + title + description (right side).
+# Ordered chronologically from 2022 (start at MIT).
+- location: Cambridge, MA
+  date: Sep 2022
+  title: Started at MIT
+  description: >
+    Began my B.S. in Computer Science and Engineering at MIT.
+
+- location: Cambridge, MA
+  date: 2022 &ndash; present
+  title: Research Assistant, MIT Media Lab (Fluid Interfaces group)
+  description: >
+    Joined the MIT Media Lab to research biosignal processing (EEG, EMG, EOG),
+    human-computer interaction, and adaptive AI systems &mdash; leading to
+    first- and co-authored publications.
+
+- location: Cambridge, MA
+  date: 2024
+  title: Research Assistant, CSAIL (FutureTech Lab)
+  description: >
+    Fit functional forms of fine-tuning scaling laws for computer vision models
+    and used GPT-4o prompt engineering to estimate classification complexity for
+    AI labor augmentation.
+
+- location: Singapore
+  date: Summer 2024
+  title: Research Intern, A*STAR
+  description: >
+    Built unsupervised feature extraction and tissue clustering for
+    histomorphology in H&amp;E-stained liver cancer whole-slide images.
+
+- location: Seattle, WA
+  date: Summer 2025
+  title: SDE Intern, Amazon (PXT)
+  description: >
+    Built an LLM-powered RAG feedback pipeline and end-to-end AWS CDK
+    infrastructure (Lambda, Step Functions, RDS, S3, CloudFront) for the
+    OpsMate chatbot.
+
+- location: Cambridge, MA
+  date: Sep 2025
+  title: Research Assistant, CSAIL (Vision Lab)
+  description: >
+    Advised by Prof. Sara Beery, building generative-AI pipelines that use
+    diffusion models to address distribution shift in species classification.
+
+- location: San Francisco, CA
+  date: Feb 2026
+  title: Founder &amp; CTO, Palette (YC S26)
+  description: >
+    Co-founded Palette ($500K pre-seed led by Y Combinator S26), architecting
+    the core ML inference pipeline and full-stack product from zero to
+    production.
+
+- location: Cambridge, MA
+  date: May 2026
+  title: Graduated from MIT
+  description: >
+    Completed my B.S. in Computer Science and Engineering with a minor in Chinese, with HKN
+    honors and the Gordon-MIT Engineering Leadership Program.
+
+- location: Stanford, CA
+  date: Sep 2026
+  title: M.S. at Stanford University
+  description: >
+    Began a part-time M.S. in Computer Science (AI specialization) at Stanford
+    while continuing to build at Palette.

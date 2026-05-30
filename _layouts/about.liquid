@@ -73,6 +73,12 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Timeline -->
+    {% if page.timeline and page.timeline.enabled %}
+      <h2>{{ page.timeline.title | default: 'timeline' }}</h2>
+      {% include timeline.liquid %}
+    {% endif %}
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}

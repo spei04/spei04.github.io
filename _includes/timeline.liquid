@@ -1,0 +1,15 @@
+<div class="timeline">
+  {% for event in site.data.timeline %}
+    <div class="timeline-item">
+      <div class="timeline-location">{{ event.location }}</div>
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <span class="timeline-date">{{ event.date }}</span>
+        <h3 class="timeline-title">{{ event.title }}</h3>
+        {% if event.description %}
+          <p class="timeline-description">{{ event.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
