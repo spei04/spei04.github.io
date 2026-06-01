@@ -4,6 +4,7 @@ title: LLM Strategy in Multi-Agent Games
 description: "MIT LIDS (Kate Donahue, Manish Raghavan) · How LLMs generate and evolve strategies"
 importance: 2
 category: research
+github: https://github.com/Calista-H/Game-Theory-with-LLMs
 ---
 
 **MIT Laboratory for Information & Decision Systems (LIDS)** — Feb 2026 – Jun 2026 · with Kate Donahue and Manish Raghavan
