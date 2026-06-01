@@ -65,59 +65,97 @@ cv:
         start_date: 2026-02
         end_date: present
 
+      - company: MIT Laboratory for Information & Decision Systems (LIDS)
+        position: Researcher
+        location: Cambridge, MA
+        start_date: 2026-02
+        end_date: 2026-06
+        summary: With Kate Donahue and Manish Raghavan; LLM strategy in multi-agent games.
+        highlights:
+          - "Implemented a scalable evaluation framework to test how large language models generate, follow, and evolve strategies in multi-agent games via systematic simulations across multiple LLMs."
+          - "Identified model-dependent strategic tendencies and linked behavioral differences to training and architectural choices."
+          - "Applied statistical analysis to uncover patterns relevant to AI safety, coordination, and incentive alignment."
+          - "Delivered a reproducible codebase enabling further analysis of LLMs in strategic environments."
+
+      - company: Nuvalla (startup building a trust layer for agents)
+        position: Software Engineering Intern
+        location: Remote
+        start_date: 2026-01
+        end_date: 2026-02
+        highlights:
+          - "Drove product readiness through QA testing, documentation, and light coding/automation."
+          - "Built a full-stack loan-processing system and architected an interactive dashboard with a responsive UI (Python, FastAPI, Next.js)."
+          - "Identified target segments and synthesized outreach data to refine product-market fit and venture narrative."
+          - "Pushed an investor-ready demo to [GitHub](https://github.com/rynndngg/Nuvallaaa)."
+
       - company: CSAIL (Vision Lab)
-        position: Research Assistant
+        position: Researcher
         location: Cambridge, MA
         start_date: 2025-09-01
         end_date: 2026-05-01
-        summary: Advised by Professor Sara Beery; researching distribution shift using diffusion models.
+        summary: Advised by Sara Beery; addressing distribution shift by finetuning diffusion models.
         highlights:
-          - "Developed a generative AI pipeline to balance species classification datasets using open-source diffusion models (Qwen and Flux Image Edit) for data augmentation and filtering; 10,000+ lines of Python."
-          - "Trained classification models on augmented datasets; designed MLLM-as-a-judge evaluation for synthetic image filtering."
-          - "Presented at MIT SuperUROP showcase institute-wide."
-
-      - company: MIT Media Lab (Fluid Interfaces group)
-        position: Research Assistant
-        location: Cambridge, MA
-        start_date: 2022
-        end_date: present
-        summary: Research on biosignal processing, HCI, and adaptive AI systems.
-        highlights:
-          - "First author — Frontiers in Human Neuroscience: speech motor patterns in minimally verbal ASD adults via surface EMG; 5,000+ lines of Python."
-          - "Co-author — ACM IMWUT 2025: heartbeat-synchronized haptic feedback for interoception; 3,000+ lines of Python."
-          - "Co-author — IEEE BSN 2024: privacy-preserving EOG-EEG eye movement classification."
-          - "Co-author — NeuroChat (CHI 2025 submitted): adaptive AI learning using real-time EEG with GPT."
+          - "Researched and implemented state-of-the-art approaches to address distribution shift by finetuning diffusion models."
+          - "Developed a generative AI pipeline to balance species classification datasets using open-source diffusion models (Qwen Edit and Flux) for data augmentation; explored curriculum learning and MLLM-based filtering to improve synthetic-data usability."
+          - "Trained classification models on augmented datasets to establish baseline accuracies and designed rigorous evaluation methods."
+          - "Selected to present a poster at the MIT Generative AI Impact Consortium to external sponsors from OpenAI and at lab-wide meetings — [poster](https://drive.google.com/file/d/1js7wec4vULfK7B_Sva4B3KPDtzX6T7BW/view?usp=sharing)."
 
       - company: Amazon (People eXperience Technology)
-        position: SDE Intern — Workforce Solutions Transformative Tech
+        position: Software Development Engineer Intern (Machine Learning)
         location: Seattle, WA
-        start_date: 2025-06-01
+        start_date: 2025-05-01
         end_date: 2025-08-31
-        summary: "Project: OpsMate Data Acquisition Autonomy — LLM-powered feedback mechanism for RAG-based chatbot."
+        summary: Human-in-the-loop + LLM feedback mechanism for a retrieval-based chatbot.
         highlights:
-          - "Built and integrated a full-stack web application (Katal + React + Flask) for feedback records and knowledge base modification."
-          - "Architected end-to-end AWS infrastructure using CDK: Lambda, Step Functions, Docker, RDS Postgres, EC2, S3, CloudFront."
-          - "Trained BERTopic model for topic identification by collecting and assembling training data."
+          - "Designed and implemented from scratch a feedback mechanism with a data-processing pipeline and full-stack web application to bring human-in-the-loop and LLM capabilities to a retrieval-based chatbot system."
+          - "Used AWS CDK to orchestrate a state machine of Lambda functions and a secure, internally authenticated full-stack web application (pushed 60,000+ lines of Python, JavaScript, and HTML/CSS to Amazon's internal code system)."
+          - "Documented research results and codebase; presented the final project and demo to stakeholders and science-team members."
 
       - company: CSAIL (FutureTech Lab)
         position: Research Assistant
         location: Cambridge, MA
-        start_date: 2024
-        end_date: 2024
+        start_date: 2024-03
+        end_date: 2025-05
+        summary: Advised by Dr. Wensu Li; economics of AI labor automation and CV scaling laws.
         highlights:
-          - "Fit functional forms of fine-tuning scaling laws for computer vision models; 1,000+ lines of Python."
-          - "GPT-4o prompt engineering to estimate classification complexities for AI labor augmentation; case study on 30+ occupation categories."
-          - "500+ lines of R: logistic regression to predict customer preferences for online/offline shopping."
+          - "Analyzed the economics of labor automation using AI and fit functional forms of computer-vision model scaling laws."
+          - "Wrote 1,000+ lines of Python to run scaling-law experiments, visualize data, and analyze survey results."
+          - "Used prompt engineering to produce robust estimates of classification complexity for automating occupations."
 
-      - company: A*STAR (Agency for Science, Technology, and Research)
+      - company: A*STAR Bioinformatics Institute
         position: Research Intern
-        location: Singapore
-        start_date: 2024
-        end_date: 2024
+        location: Holland, Singapore
+        start_date: 2024-05
+        end_date: 2024-08
+        summary: Advised by Dr. Lau Mai Chan; deep learning for histomorphology in cancer tissue.
         highlights:
-          - "Unsupervised feature extraction and tissue clustering for histomorphology in H&E stained liver cancer tissue images; 5,000+ lines of Python."
-          - "Optimized code for large whole slide image (WSI) processing; overlaid cluster masks on tissue images for accuracy analysis."
+          - "Implemented an unsupervised model for feature extraction and tissue clustering for histomorphology in H&E-stained liver-cancer tissue images (5,000+ lines of Python for training, evaluation, and visualization)."
+          - "Conducted literature reviews of state-of-the-art deep-learning models, clustering methods, and self-supervised encoders."
+          - "Optimized code for opening high-resolution whole-slide images and overlaid predicted cluster masks to analyze accuracy."
 
+      - company: MIT Media Lab (Fluid Interfaces Lab)
+        position: Research Assistant
+        location: Cambridge, MA
+        start_date: 2024-02
+        end_date: 2026-05
+        summary: Advised by Nataliya Kosmyna; biosignal processing (EEG, EMG, EOG), HCI, and adaptive AI.
+        highlights:
+          - "First author — Frontiers in Human Neuroscience & MIT Undergraduate Research Journal: surface-EMG analysis of speech motor patterns in minimally verbal ASD adults (20+ page paper)."
+          - "Co-author — IEEE BSN 2024: machine-learning prediction of eye movement from EOG and EEG signal data (700+ lines of Python)."
+          - "Co-author — ACM IMWUT: emotion regulation via heartbeat recognition and valence/arousal disturbance, with designed experiments and statistical tests."
+          - "First author — multimodal (EOG/EEG/EMG) feedback study in minimally verbal ASD individuals, optimizing classification accuracy with ML models."
+          - "Co-author — \"Causal Effects of Everyday Wearable Heartbeat-Synchronized Haptic Feedback on Interoceptive Awareness and Mental Health\" (submitted to ACM)."
+          - "Led a multimodal EOG/EEG/EMG ML study; mentored and onboarded new students, organized meetings, and wrote 2,000+ lines of Python for analysis."
+
+      - company: CSAIL (Kellis Lab)
+        position: Research Assistant
+        location: Cambridge, MA
+        start_date: 2023-12
+        end_date: 2024-04
+        summary: Advised by Manolis Kellis; data engineering for the seascapes.ai AI navigator.
+        highlights:
+          - "Web-scraped data from various websites using Selenium and embedded it into feature vectors in Python."
+          - "Mapped 3,000+ classes and majors from CourseRoad, 900+ courses from EdX, and 400+ MIT job descriptions onto an AI navigator space (seascapes.ai) using PostgreSQL."
 
       - company: MIT Introduction to Machine Learning (6.3900)
         position: Learning Assistant

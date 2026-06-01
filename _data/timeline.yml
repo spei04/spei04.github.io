@@ -8,42 +8,67 @@
     Began my B.S. in Computer Science and Engineering at MIT.
 
 - location: Cambridge, MA
-  date: 2022 &ndash; present
-  title: Research Assistant, MIT Media Lab (Fluid Interfaces group)
+  date: Dec 2023 &ndash; Apr 2024
+  title: Research Assistant, CSAIL (Kellis Lab)
   description: >
-    Joined the MIT Media Lab to research biosignal processing (EEG, EMG, EOG),
-    human-computer interaction, and adaptive AI systems &mdash; leading to
-    first- and co-authored publications.
+    Advised by Manolis Kellis &mdash; web-scraped and embedded data, mapping
+    3,000+ courses and majors, 900+ EdX courses, and 400+ MIT job descriptions
+    onto the seascapes.ai AI navigator with PostgreSQL.
 
 - location: Cambridge, MA
-  date: 2024
+  date: Feb 2024 &ndash; May 2026
+  title: Research Assistant, MIT Media Lab (Fluid Interfaces Lab)
+  description: >
+    Advised by Nataliya Kosmyna &mdash; first- and co-authored papers on
+    biosignal processing (EEG, EMG, EOG) for ASD communication, eye-movement
+    classification, and interoceptive haptic feedback.
+
+- location: Cambridge, MA
+  date: Mar 2024 &ndash; May 2025
   title: Research Assistant, CSAIL (FutureTech Lab)
   description: >
-    Fit functional forms of fine-tuning scaling laws for computer vision models
-    and used GPT-4o prompt engineering to estimate classification complexity for
-    AI labor augmentation.
+    Advised by Dr. Wensu Li &mdash; analyzed the economics of AI labor
+    automation and fit functional forms of computer-vision model scaling laws.
 
-- location: Singapore
-  date: Summer 2024
-  title: Research Intern, A*STAR
+- location: Holland, Singapore
+  date: May 2024 &ndash; Aug 2024
+  title: Research Intern, A*STAR Bioinformatics Institute
   description: >
-    Built unsupervised feature extraction and tissue clustering for
-    histomorphology in H&amp;E-stained liver cancer whole-slide images.
+    Advised by Dr. Lau Mai Chan &mdash; built an unsupervised model for feature
+    extraction and tissue clustering for histomorphology in H&amp;E-stained
+    liver-cancer tissue images.
 
 - location: Seattle, WA
-  date: Summer 2025
-  title: SDE Intern, Amazon (PXT)
+  date: May 2025 &ndash; Aug 2025
+  title: SDE Intern (ML), Amazon (PXT)
   description: >
-    Built an LLM-powered RAG feedback pipeline and end-to-end AWS CDK
-    infrastructure (Lambda, Step Functions, RDS, S3, CloudFront) for the
-    OpsMate chatbot.
+    Designed from scratch a human-in-the-loop + LLM feedback mechanism and
+    full-stack web app for a retrieval-based chatbot; orchestrated AWS CDK
+    Lambda state machines (60,000+ lines shipped).
 
 - location: Cambridge, MA
-  date: Sep 2025
-  title: Research Assistant, CSAIL (Vision Lab)
+  date: Sep 2025 &ndash; May 2026
+  title: Researcher, CSAIL (Vision Lab)
   description: >
-    Advised by Prof. Sara Beery, building generative-AI pipelines that use
-    diffusion models to address distribution shift in species classification.
+    Advised by Sara Beery &mdash; built generative-AI pipelines finetuning
+    diffusion models (Qwen Edit, Flux) to address distribution shift; presented
+    a poster to OpenAI sponsors at the MIT Generative AI Impact Consortium.
+
+- location: Remote
+  date: Jan 2026 &ndash; Feb 2026
+  title: Software Engineering Intern, Nuvalla
+  description: >
+    At a startup building a trust layer for agents &mdash; built a full-stack
+    loan-processing system and interactive dashboard (Python, FastAPI, Next.js)
+    and drove product readiness through QA, docs, and automation.
+
+- location: Cambridge, MA
+  date: Feb 2026 &ndash; Jun 2026
+  title: Researcher, MIT LIDS
+  description: >
+    With Kate Donahue and Manish Raghavan &mdash; built a scalable framework
+    evaluating how LLMs generate and evolve strategies in multi-agent games,
+    with implications for AI safety, coordination, and incentive alignment.
 
 - location: San Francisco, CA
   date: Feb 2026
