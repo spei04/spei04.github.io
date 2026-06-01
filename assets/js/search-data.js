@@ -93,6 +93,11 @@ ninja.data = [{
           description: "AI EarthHack (HBS) · Best Pitch Award out of 150+ global teams",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_earthhack/";
+            },},{id: "projects-deep-learning-for-cancer-histomorphology",
+          title: 'Deep Learning for Cancer Histomorphology',
+          description: "A*STAR Bioinformatics Institute (Lau Mai Chan) · Unsupervised tissue clustering in liver-cancer images",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/astar_histomorphology/";
             },},{id: "projects-stable-diffusion-for-brain-mri-synthesis",
           title: 'Stable Diffusion for Brain MRI Synthesis',
           description: "Computer Vision final project · Generating realistic glioma tumor MRI images",
@@ -103,6 +108,11 @@ ninja.data = [{
           description: "Deep Learning final project · EDM diffusion pipeline for CIFAR-100 augmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diffusion_curriculum/";
+            },},{id: "projects-economics-of-ai-labor-automation",
+          title: 'Economics of AI Labor Automation',
+          description: "MIT CSAIL FutureTech Lab (Wensu Li) · Computer-vision scaling laws and occupation automation estimates",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/futuretech_scaling/";
             },},{id: "projects-exploring-hardware-acceleration-on-rag-workloads",
           title: 'Exploring Hardware Acceleration on RAG Workloads',
           description: "Computer Systems Architecture final project · Hardware efficiency of RAG inference across LPDDR4/5X/6 memory technologies",
@@ -113,6 +123,21 @@ ninja.data = [{
           description: "Apart &amp; AgentBeats Hackathon · Measuring AI agent compliance and deception under trading scenarios",
           section: "Projects",handler: () => {
               window.location.href = "/projects/id_bench/";
+            },},{id: "projects-ai-navigator-for-education-amp-careers",
+          title: 'AI Navigator for Education &amp;amp; Careers',
+          description: "MIT CSAIL Kellis Lab (Manolis Kellis) · Mapping courses and jobs onto seascapes.ai with PostgreSQL",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kellis_navigator/";
+            },},{id: "projects-llm-strategy-in-multi-agent-games",
+          title: 'LLM Strategy in Multi-Agent Games',
+          description: "MIT LIDS (Kate Donahue, Manish Raghavan) · How LLMs generate and evolve strategies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lids_multiagent/";
+            },},{id: "projects-multimodal-biosignal-processing-for-hci",
+          title: 'Multimodal Biosignal Processing for HCI',
+          description: "MIT Media Lab, Fluid Interfaces (Nataliya Kosmyna) · EEG/EMG/EOG for ASD communication and interoception",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/media_lab_biosignals/";
             },},{id: "projects-mit-yc-program",
           title: 'MIT YC Program',
           description: "16/100 MIT teams selected · $5K funding · Jan–Feb 2026",
@@ -128,6 +153,11 @@ ninja.data = [{
           description: "NLP final project · Measuring LLM safety alignment degradation and recovery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rar/";
+            },},{id: "projects-diffusion-models-for-distribution-shift",
+          title: 'Diffusion Models for Distribution Shift',
+          description: "MIT CSAIL Vision Lab (Sara Beery) · Finetuning diffusion models to balance species classification datasets",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vision_lab/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
