@@ -50,9 +50,10 @@
   date: Sep 2025 &ndash; May 2026
   title: Researcher, CSAIL (Vision Lab)
   description: >
-    Advised by Sara Beery &mdash; built generative-AI pipelines finetuning
-    diffusion models (Qwen Edit, Flux) to address distribution shift; presented
-    a poster to OpenAI sponsors at the MIT Generative AI Impact Consortium.
+    Advised by Sara Beery &mdash; built generative-AI pipelines (Qwen Edit,
+    Flux) and finetuned diffusion models (DreamBooth) to address distribution
+    shift; presented a poster to OpenAI sponsors, my lab group, and the MIT
+    Generative AI Impact Consortium.
 
 - location: Remote
   date: Jan 2026 &ndash; Feb 2026

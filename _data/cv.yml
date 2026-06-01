@@ -96,9 +96,9 @@ cv:
         summary: Advised by Sara Beery; addressing distribution shift by finetuning diffusion models.
         highlights:
           - "Researched and implemented state-of-the-art approaches to address distribution shift by finetuning diffusion models."
-          - "Developed a generative AI pipeline to balance species classification datasets using open-source diffusion models (Qwen Edit and Flux) for data augmentation; explored curriculum learning and MLLM-based filtering to improve synthetic-data usability."
+          - "Developed generative AI pipelines (Qwen Edit and Flux) and finetuned diffusion models (DreamBooth) to balance species classification datasets for data augmentation; explored curriculum learning and MLLM-based filtering to improve synthetic-data usability."
           - "Trained classification models on augmented datasets to establish baseline accuracies and designed rigorous evaluation methods."
-          - "Selected to present a poster at the MIT Generative AI Impact Consortium to external sponsors from OpenAI and at lab-wide meetings — [poster](https://drive.google.com/file/d/1js7wec4vULfK7B_Sva4B3KPDtzX6T7BW/view?usp=sharing)."
+          - "Presented a poster to OpenAI sponsors, my lab group, and the MIT Generative AI Impact Consortium — [poster](https://drive.google.com/file/d/1js7wec4vULfK7B_Sva4B3KPDtzX6T7BW/view?usp=sharing)."
 
       - company: Amazon (People eXperience Technology)
         position: Software Development Engineer Intern (Machine Learning)
