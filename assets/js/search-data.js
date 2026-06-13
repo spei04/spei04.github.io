@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-building-a-vertical-agent",
+        
+          title: "Building a Vertical Agent",
+        
+        description: "Notes on structuring a vertical agent&#39;s context like CPU cache levels — trading information compression against speed of discovery.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/building-a-vertical-agent/";
+          
+        },
+      },{id: "post-paper-notes-ctrl-o-language-controllable-object-centric-visual-representation-learning",
+        
+          title: "Paper Notes: CTRL-O — Language-Controllable Object-Centric Visual Representation Learning",
+        
+        description: "Reading notes on CTRL-O (CVPR 2025), a method for steering object-centric slot representations with language queries.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ctrl-o-object-centric-learning/";
+          
+        },
+      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
