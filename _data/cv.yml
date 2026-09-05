@@ -2,7 +2,7 @@ cv:
   name: Serena Pei
   label: MIT CS · YC Founder (S26) · ML Researcher
   email: serenapei123@gmail.com
-  location: Cambridge, MA · San Francisco, CA
+  location: San Francisco, CA
   image: ""
   summary: >
     I work at the intersection of rigorous machine learning research and high-stakes system engineering.
@@ -144,7 +144,7 @@ cv:
           - "Co-author — IEEE BSN 2024: machine-learning prediction of eye movement from EOG and EEG signal data (700+ lines of Python)."
           - "Co-author — ACM IMWUT: emotion regulation via heartbeat recognition and valence/arousal disturbance, with designed experiments and statistical tests."
           - "First author — multimodal (EOG/EEG/EMG) feedback study in minimally verbal ASD individuals, optimizing classification accuracy with ML models."
-          - "Co-author — \"Causal Effects of Everyday Wearable Heartbeat-Synchronized Haptic Feedback on Interoceptive Awareness and Mental Health\" (submitted to ACM)."
+          - 'Co-author — "Causal Effects of Everyday Wearable Heartbeat-Synchronized Haptic Feedback on Interoceptive Awareness and Mental Health" (submitted to ACM).'
           - "Led a multimodal EOG/EEG/EMG ML study; mentored and onboarded new students, organized meetings, and wrote 2,000+ lines of Python for analysis."
 
       - company: CSAIL (Kellis Lab)
@@ -184,13 +184,4 @@ cv:
         summary: "Fluent"
 
     Extracurriculars:
-      - bullet: "E14 Fund"
-      - bullet: "MIT Informatics Tournament Club (Treasurer)"
-      - bullet: "Society of Women Engineers"
-      - bullet: "Women in EECS"
-      - bullet: "MissBehavior Dance Team (Treasurer)"
-      - bullet: "Asian Dance Team"
-      - bullet: "MIT Arts Studio"
-      - bullet: "Women's Volleyball Club"
-      - bullet: "Intramural Badminton"
-      - bullet: "Intramural Volleyball"
+      - bullet: "MIT Informatics Tournament Club (Treasurer), Society of Women Engineers, Women in EECS, MissBehavior Dance Team (Treasurer), Asian Dance Team, MIT Arts Studio, Women's Volleyball Club, Intramural Badminton, Intramural Volleyball"

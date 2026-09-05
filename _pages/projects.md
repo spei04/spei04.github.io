@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research, hackathons, and coursework.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [startup, research, hackathon, coursework]
 horizontal: false

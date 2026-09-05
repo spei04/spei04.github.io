@@ -12,10 +12,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cambridge, MA · San Francisco, CA</p>
+    <p>San Francisco, CA</p>
     <p><a href="mailto:serenapei123@gmail.com">serenapei123@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3
 
 timeline:
-  enabled: true
+  enabled: false
   title: timeline
 ---
 

@@ -2,8 +2,8 @@
 layout: page
 title: art
 permalink: /art/
-nav: true
-nav_order: 3
+nav: false
+nav_order: 6
 ---
 
 {% assign art_images = site.static_files | where_exp: "file", "file.path contains '/art_portfolio/'" %}
