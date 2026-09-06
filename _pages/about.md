@@ -33,6 +33,6 @@ timeline:
   title: timeline
 ---
 
-I'm a Forward Deployed Engineer on the <span class="org">Snowflake Cortex</span> team, architecting enterprise AI solutions to solve critical client bottlenecks and drive operational efficiency. Previously, I co-founded <span class="org">Palette</span> (<span class="org">YC</span> S26), building autonomous creative agents for AI-native media. I hold a BS in Computer Science from <span class="org">MIT</span> and am currently on leave from the <span class="org">Stanford</span> MSCS program.
+I'm a Forward Deployed Engineer on the Snowflake Cortex team, architecting enterprise AI solutions to solve critical client bottlenecks and drive operational efficiency. Previously, I co-founded <span class="org">Palette (YC S26)</span>, building autonomous creative agents for AI-native media. I hold a BS in Computer Science from <span class="org">MIT</span> and am currently on leave from the <span class="org">Stanford</span> MSCS program.
 
 In the past, I have worked on spatial intelligence at <span class="org">NYU CILVR Lab</span>, game theory LLM research at <span class="org">MIT LIDS</span>, engineering RAG chatbots at <span class="org">Amazon</span>, analyzing mvASD through biological signals at <span class="org">MIT Media Lab</span>, computer vision for biodiversity at <span class="org">CSAIL</span>, and bioinformatics research at <span class="org">ASTAR</span>.
