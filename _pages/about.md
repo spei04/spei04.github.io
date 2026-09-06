@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://web.mit.edu/">MIT</a> Computer Science and Engineering &middot;
+  <span class="org">MIT</span> Computer Science and Engineering &middot;
   YC Founder (S26) &middot;
   ML Researcher
 
@@ -33,6 +33,6 @@ timeline:
   title: timeline
 ---
 
-I'm a Forward Deployed Engineer on the Snowflake Cortex team, architecting enterprise AI solutions to solve critical client bottlenecks and drive operational efficiency. Previously, I co-founded Palette (YC S26), building autonomous creative agents for AI-native media. I hold a BS in Computer Science from MIT and am currently on leave from the Stanford MSCS program.
+I'm a Forward Deployed Engineer on the <span class="org">Snowflake Cortex</span> team, architecting enterprise AI solutions to solve critical client bottlenecks and drive operational efficiency. Previously, I co-founded <span class="org">Palette</span> (<span class="org">YC</span> S26), building autonomous creative agents for AI-native media. I hold a BS in Computer Science from <span class="org">MIT</span> and am currently on leave from the <span class="org">Stanford</span> MSCS program.
 
-My background spans applied AI engineering and multimodal research across top industry and academic labs—including spatial intelligence at NYU CILVR, game-theoretic LLMs at MIT LIDS, RAG architectures at Amazon, computer vision at MIT CSAIL, and computational biology at the MIT Media Lab and A\*STAR.
+In the past, I have worked on spatial intelligence at <span class="org">NYU CILVR Lab</span>, game theory LLM research at <span class="org">MIT LIDS</span>, engineering RAG chatbots at <span class="org">Amazon</span>, analyzing mvASD through biological signals at <span class="org">MIT Media Lab</span>, computer vision for biodiversity at <span class="org">CSAIL</span>, and bioinformatics research at <span class="org">ASTAR</span>.

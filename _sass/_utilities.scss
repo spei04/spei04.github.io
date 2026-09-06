@@ -603,3 +603,8 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+// Organizations and institutions mentioned in prose: accent-colored, not linked.
+.org {
+  color: var(--global-theme-color);
+}
