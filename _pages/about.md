@@ -33,10 +33,6 @@ timeline:
   title: timeline
 ---
 
-I thrive at the intersection of rigorous machine learning research and high-stakes system engineering. As an MIT Computer Science and Engineering student and YC Founder (S26), my work is driven by the belief that the most profound breakthroughs in AI are only as impactful as the systems that deliver them.
+I'm a Forward Deployed Engineer on the Snowflake Cortex team, architecting enterprise AI solutions to solve critical client bottlenecks and drive operational efficiency. Previously, I co-founded Palette (YC S26), building autonomous creative agents for AI-native media. I hold a BS in Computer Science from MIT and am currently on leave from the Stanford MSCS program.
 
-My research background spans **[CSAIL](https://www.csail.mit.edu/)** (Vision Lab, advised by Prof. Sara Beery), the **[MIT Media Lab](https://www.media.mit.edu/)** (Fluid Interfaces Lab), and **LIDS** (Laboratory for Information & Decision Systems). I have focused on distribution shifts and diffusion-based data augmentation, multi-modal biosignal processing (EEG, EMG, EOG), and the reasoning capabilities of large language models.
-
-At **Palette** (YC S26), I am synthesizing these interests to build the next generation of intelligent tools for the modern workforce — architecting the core ML inference pipeline and full-stack product infrastructure from zero to production.
-
-Previously, I interned at **Amazon (PXT)** building an LLM-powered RAG feedback pipeline and AWS CDK infrastructure, and conducted research at **A\*STAR Singapore** on deep learning for histomorphology in cancer tissue images.
+My background spans applied AI engineering and multimodal research across top industry and academic labs—including spatial intelligence at NYU CILVR, game-theoretic LLMs at MIT LIDS, RAG architectures at Amazon, computer vision at MIT CSAIL, and computational biology at the MIT Media Lab and A\*STAR.
